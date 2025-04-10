@@ -26,7 +26,7 @@ options_trading_ai/
 ├── ai_analysis.py              # AI-driven analytics and modeling
 ├── recommendation_engine.py    # Generate buy/sell recommendations
 ├── visualizer.py               # Visualize analytics and insights
-├── orchestrator.py             # Main workflow manager
+├── main.py                     # Main workflow manager
 ├── config.py                   # Project-wide configuration
 ├── .env                        # Environment variables & API keys
 └── requirements.txt            # Project dependencies
